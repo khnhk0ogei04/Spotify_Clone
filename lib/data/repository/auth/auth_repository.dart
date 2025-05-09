@@ -22,8 +22,7 @@ class AuthRepositoryImpl extends AuthRepository{
   }
 
   @override
-  Future<Either> logout() {
-    // TODO: implement logout
-    throw UnimplementedError();
+  Future<Either> logout() async{
+    return await sl<AuthFirebaseService>().logout();
   }
 }

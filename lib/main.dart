@@ -30,6 +30,9 @@ void main() async{
       builder: (context) => MyApp(), // Wrap your app
     ),
   );
+  // await Firebase.initializeApp(
+  //
+  // )
 }
 
 class MyApp extends StatelessWidget {
