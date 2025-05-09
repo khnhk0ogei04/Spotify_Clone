@@ -1,7 +1,25 @@
-<<<<<<< HEAD
-# spotify_clone
+# Spotify_Clone
 
-A new Flutter project.
+A Flutter clone project inspired by Spotify.
+
+---
+
+## Demo of Project
+
+### Home Screen
+![Home Screen](https://github.com/khnhk0ogei04/Spotify_Clone/blob/main/demo_images/homePage-spotify.png?raw=true)
+
+---
+
+### Playing Screen
+![Playing Screen](https://github.com/khnhk0ogei04/Spotify_Clone/blob/main/demo_images/playScreen-spotify.png?raw=true)
+
+---
+
+### Profile Page
+![Profile Page](https://github.com/khnhk0ogei04/Spotify_Clone/blob/main/demo_images/profilePage-spotify.png?raw=true)
+
+---
 
 ## Getting Started
 
@@ -15,7 +33,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# Spotify_Clone
-Spotify Clone using Dart (Tutorial)
->>>>>>> fe74ed84b335ce9d9fa1ef0a7a7b938432c62201
